@@ -1,7 +1,7 @@
 # Streamlit-Drawable-WebApp
 
 # Initial Setup:
-1. Clone this repo: git clone [https://github.com/VishwasDevnani/Neural-Net-Visualizer-WebApp.git](https://github.com/VishwasDevnani/Neural-Net-Visualizer-WebApp.git)
+1. Clone this repo: git clone [https://github.com/VishwasDevnani/Streamlit-Drawable-WebApp.git](https://github.com/VishwasDevnani/Streamlit-Drawable-WebApp.git)
 2. open Anaconda Prompt/Command Prompt
 3. Change your directory to the place where you cloned the repository, `` **ex**: cd C:\\User\\Acer\\**Example**\\StreamlitWebApp ``
 4. Either insall all libraries seprately or ` pip install -r requirements.txt `
